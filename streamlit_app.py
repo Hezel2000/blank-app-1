@@ -7,7 +7,7 @@ import seaborn as sns
 tab1, tab2 = st.tabs(["Table", "Plot"])
 
 with tab1:
-    st.title('Global Average  Anomaly Analysis')
+    st.title('Global Average  Anomaly Analysi')
 
     @st.cache_data
     def load_data():
