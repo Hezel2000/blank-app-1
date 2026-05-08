@@ -1,1 +1,6 @@
 streamlit
+matplotlib
+mag4
+pandas
+plotly
+seaborn
